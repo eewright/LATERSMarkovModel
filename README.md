@@ -58,6 +58,7 @@ getTM.m
 _________________________________________________________________________________________________
 
 3. LATERS Markov model - Run master1.m to run the LATERS Markov model.
+
 master1.m
 -Specifies model file name.
 -Runs run_LATERSAB_Method1_pkill_vcell_newgrid.m.
